@@ -1,0 +1,1 @@
+@"d:\inapp\sources\trainaid\trainaid\scripts\python.exe" "d:\inapp\sources\trainaid\trainaid\Scripts\markdown_py" %*
