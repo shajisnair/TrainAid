@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'channels',
     'django_extensions',
+    'SpeechRecognizer',
 ]
 
 MIDDLEWARE = [
